@@ -1,4 +1,5 @@
 # My_Meetic
+Pour avoir un apercu du projet je vous est mis un dossier "ScreenShot_Project" dans le projet  
 
 
 ![Capture d’écran de 2022-07-07 14-19-54](https://user-images.githubusercontent.com/93912299/177783318-137764ed-a7f7-48e5-92f7-9804d8611a7c.png)
