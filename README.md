@@ -1,4 +1,5 @@
 # My_Meetic
+Projet web orienté ajax, jquery, et PHP orienté objet.
 Pour avoir un apercu du projet je vous est mis un dossier "ScreenShot_Project" dans le projet  
 
 
